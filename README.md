@@ -9,6 +9,7 @@ My focus is fullstack development – I enjoy both creating responsive UIs in An
 - 👨‍🔬 [Genetic Algorithms]() - ???
 - ⚖️ [MyWeightPal]() - ???
 - ⛽ [MyFuelPal](https://github.com/Meikelele/my-fuel-pal.git) - ???
+- 📖 [Notify]() - ???
 
 ## I code with
 

@@ -1,6 +1,6 @@
 # I'm Michael Bak
-
-I'm a fourth-year Data Science student at Cracow University of Technology, developing my skills in web application development.  
+I’m a Computer Science Engineer with a focus on web application development.  
+I'm a fourth-year Data Science student at Cracow University of Technology.  
 My focus is fullstack development – I enjoy both creating responsive UIs in Angular and building efficient backend services in Spring Boot.  
 
 ## Projects

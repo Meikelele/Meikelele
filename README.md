@@ -5,10 +5,10 @@ My focus is fullstack development – I enjoy both creating responsive UIs in An
 
 ## Projects
 
-- 🎓 [Liver Fibrosis Prediction](https://github.com/username/liver-fibrosis-ml) – ML model for liver disease staging using various classifiers and SHAP explainability
-- 👨‍🔬 [Ackley Genetic Optimizer](https://github.com/username/genetic-ackley-gui) – Evolutionary algorithm in Python with Streamlit GUI
-- ⚖️ [Weight Tracker App](https://github.com/username/weight-tracker-app) – Django backend + NoSQL database + data visualization
-- ⛽ [MyFuelPal](https://github.com/username/weight-tracker-app) – Django backend + NoSQL database + data visualization
+- 🎓 [Liver Fibrosis Prediction (theasis)](https://github.com/Meikelele/thesis.git) - ???
+- 👨‍🔬 [Genetic Algorithms]() - ???
+- ⚖️ [MyWeightPal]() - ???
+- ⛽ [MyFuelPal](https://github.com/Meikelele/my-fuel-pal.git) - ???
 
 ## I code with
 
@@ -40,7 +40,7 @@ My focus is fullstack development – I enjoy both creating responsive UIs in An
 - ♠️ Poker
 
 ## Let's contact
-[michal.bak2002@gmail.com](mailto:michael.bak2002@gmail.com)  
+[michael.bak2002@gmail.com](mailto:michael.bak2002@gmail.com)  
 [GitHub](https://github.com/Meikelele)  
 [LinkedIn](https://linkedin.com/in/themichaelbak)
 

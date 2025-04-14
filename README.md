@@ -1,16 +1,43 @@
-## Hi there 👋
+# I'm Michael Bak
 
-<!--
-**Meikelele/Meikelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Data Science student at Cracow University of Technology, developing my skills in web application development.  
+My focus is fullstack development – I enjoy both creating responsive UIs in Angular and building efficient backend services in Spring Boot.  
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 [Liver Fibrosis Prediction](https://github.com/username/liver-fibrosis-ml) – ML model for liver disease staging using various classifiers and SHAP explainability
+- 👨‍🔬 [Ackley Genetic Optimizer](https://github.com/username/genetic-ackley-gui) – Evolutionary algorithm in Python with Streamlit GUI
+- ⚖️ [Weight Tracker App](https://github.com/username/weight-tracker-app) – Django backend + NoSQL database + data visualization
+- ⛽ [MyFuelPal](https://github.com/username/weight-tracker-app) – Django backend + NoSQL database + data visualization
+
+## I code with...
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+
+## Languages
+- 🇬🇧 English: B2/C1
+- 🇵🇱 Polish: Native
+
+## My Hobbies
+- 🏋️‍♂️ Calisthenics
+- 💸 Finances
+- ♠️ Poker
+
+## Let's contact
+[michal.bak2002@gmail.com](mailto:michal.bak2002@gmail.com)  
+[GitHub](https://github.com/Meikelelle)  
+[LinkedIn](https://linkedin.com/in/themichalbak)
+

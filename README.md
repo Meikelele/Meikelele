@@ -9,7 +9,7 @@ My focus is fullstack development – I enjoy both creating responsive UIs in An
 - 👨‍🔬 [Genetic Algorithms]() - ???
 - ⚖️ [MyWeightPal]() - ???
 - ⛽ [MyFuelPal](https://github.com/Meikelele/my-fuel-pal.git) - ???
-- 📖 [Notify](https://github.com/Meikelele/Taskify.git) - application for team management with kanban board
+- [Notify](https://github.com/Meikelele/Taskify.git) - application for team management with kanban board
 
 ## I code with
 

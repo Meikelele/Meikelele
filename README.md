@@ -12,7 +12,7 @@
 - [MyWeightPal]() - working on that...
 - [MyFuelPal v2](https://github.com/Meikelele/my-fuel-pal.git) - an app that helps you track your refueling history and assign fuel notes to specific vehicles.
 - [MyFuelPal v1](https://github.com/Meikelele/MyFuelPal.git) - an app that helps you track your refueling history and assign fuel notes to specific vehicles.
-- [Notify](https://github.com/Meikelele/Taskify.git) - application for team management with kanban board.
+- [Taskify](https://github.com/Meikelele/Taskify.git) - application for team management with kanban board.
 
 ## I code with
 

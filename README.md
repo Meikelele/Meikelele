@@ -6,10 +6,11 @@
 
 
 ## Projects
-
+- [Payment Order Optimalization](https://github.com/Meikelele/payment-and-order-optimalization) - A CLI app for maximizing payment discounts (Java 17)
+---
 - [Liver Fibrosis Prediction (theasis)](https://github.com/Meikelele/thesis.git) - my engineering thesis focused on comparing thirty machine learning models
-- [Genetic Algorithms]() - working on that...
-- [MyWeightPal]() - working on that...
+- [Genetic Algorithms]() - 👷⚠️ working on that...
+- [MyWeightPal]() - 👷⚠️ working on that...
 - [MyFuelPal v2](https://github.com/Meikelele/my-fuel-pal.git) - an app that helps you track your refueling history and assign fuel notes to specific vehicles.
 - [MyFuelPal v1](https://github.com/Meikelele/MyFuelPal.git) - an app that helps you track your refueling history and assign fuel notes to specific vehicles.
 - [Taskify](https://github.com/Meikelele/Taskify.git) - application for team management with kanban board.
@@ -46,7 +47,7 @@
 - 💸 Finances
 - ♠️ Poker
 
-## Let's contact
+## Socials
 [michael.bak2002@gmail.com](mailto:michael.bak2002@gmail.com)  
 [GitHub](https://github.com/Meikelele)  
 [LinkedIn](https://linkedin.com/in/themichaelbak)

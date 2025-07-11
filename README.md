@@ -16,6 +16,7 @@
 - [Taskify](https://github.com/Meikelele/Taskify.git) - application for team management with kanban board.
 ---
 - [Form Modernization](https://github.com/Meikelele/enchance-the-forms.git) - transform an outdated, unintuitive form into a modern and accessible version
+- [Angular TicTacToe](https://github.com/Meikelele/angular-tictactoe) - practice project to get familiar with Angular 19 - a lightweight Angular & TypeScript Tic Tac Toe game
 
 ## I code with
 

@@ -17,6 +17,7 @@
 ---
 - [Form Modernization](https://github.com/Meikelele/enchance-the-forms.git) - transform an outdated, unintuitive form into a modern and accessible version
 - [Angular TicTacToe](https://github.com/Meikelele/angular-tictactoe) - practice project to get familiar with Angular 19 - a lightweight Angular & TypeScript Tic Tac Toe game
+- [GardOn](https://github.com/Meikelele/refactor-front-practice.git) - frontend refactor of my colleague's engineering thesis project
 
 ## I code with
 

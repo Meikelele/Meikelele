@@ -1,6 +1,6 @@
 <h1 align="center">I'm Michael Bak</h1>
 <p align="center">I’m a Computer Science Engineer with a focus on web application development.</p>
-<p align="center">I'm a fourth-year Data Science student at Cracow University of Technology.</p>
+<p align="center">I'm a fifth-year Data Science student at Cracow University of Technology.</p>
 <p align="center">My focus is fullstack development – I enjoy both creating responsive UIs in Angular and building efficient backend services in Spring Boot.  </p>
 
 

@@ -6,7 +6,7 @@
 
 
 ## Projects
-- [Smart Traffic Lights](https://github.com/Meikelele/smart-traffic-lights) – A CLI application simulating an intelligent traffic light controller for a four-way intersection (Java 17)
+- [Smart Traffic Lights](https://github.com/Meikelele/smart-traffic-lights) – A CLI & Web application simulating an intelligent traffic light controller for a four-way intersection (Java 17, Angular + Spring Boot)
 - [Payment Order Optimalization](https://github.com/Meikelele/payment-and-order-optimalization) - A CLI app for maximizing payment discounts (Java 17)
 ---
 - [Liver Fibrosis Prediction (theasis)](https://github.com/Meikelele/thesis.git) - my engineering thesis focused on comparing thirty machine learning models

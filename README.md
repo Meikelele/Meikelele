@@ -3,9 +3,8 @@
 <p align="center">I'm a fifth-year Data Science student at Cracow University of Technology.</p>
 <p align="center">My focus is fullstack development – I enjoy both creating responsive UIs in Angular and building efficient backend services in Spring Boot.  </p>
 
-
-
 ## Projects
+- [Smart Traffic Lights](https://github.com/Meikelele/files-system-management) – Backend application for managing files and folders metadata (Java 17, Angular + Spring Boot), 👷⚠️ developing frontend in progress...
 - [Smart Traffic Lights](https://github.com/Meikelele/smart-traffic-lights) – A CLI & Web application simulating an intelligent traffic light controller for a four-way intersection (Java 17, Angular + Spring Boot)
 - [Payment Order Optimalization](https://github.com/Meikelele/payment-and-order-optimalization) - A CLI app for maximizing payment discounts (Java 17)
 ---
